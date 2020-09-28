@@ -1,5 +1,5 @@
 # rdchallenge - by timothy campbell
-A very simple execution of a programming challenge, done  with php, jquery and the ratchet framework.
+A simple execution of a programming challenge, done with php, jquery and the Ratchet framework.
 
 Websocket implementation done with Ratchet: http://socketo.me/
 
